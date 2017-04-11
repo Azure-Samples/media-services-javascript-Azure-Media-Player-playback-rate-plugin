@@ -1,8 +1,9 @@
 ---
 services: media-services
 platforms: javascript
-author:rajputam
+author: rajputam
 ---
+
 # Media Services: Playback rate plugin Azure Media Player
 
 
