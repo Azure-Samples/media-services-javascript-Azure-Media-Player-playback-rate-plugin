@@ -1,7 +1,12 @@
 ---
-services: media-services
-platforms: javascript
-author: rajputam
+page_type: sample
+languages:
+- javascript
+- html
+products:
+- azure
+description: "This plugin overlays text over the player in a configurable position when the viewer hovers over it."
+urlFragment: media-services-javascript-Azure-Media-Player-playback-rate-plugin
 ---
 
 # Media Services: Playback rate plugin Azure Media Player
